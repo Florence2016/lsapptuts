@@ -2,8 +2,8 @@
 
 @section('content')
 <div class="jumbotron text-center">
-       <h1>Welcome to Laravel Journey</h1>
-       <p>Learn laravel in basic to advanced. You can do it</p>
+       <h1>Welcome to Laravel</h1>
+       <p>Learn laravel in basic to advanced.This is your journey begins You can do it</p>
        <p><a class="btn btn-primary btn-lg" href="/login" role ="button">Login</a> <a class = "btn btn-success btn-lg" href="/register" role="button">Register</a></p>
 </div>
 @endsection
