@@ -28,6 +28,7 @@
                       <li><a href="/about">About</a></li>
                       <li><a href="/services">Services</a></li>
                       <li><a href="/posts">Blog</a></li>
+                      
                     </ul>
 
                   <!-- Right Side Of Navbar -->
@@ -44,6 +45,7 @@
 
                               <ul class="dropdown-menu">
                                   <li><a href="/dashboard">Dashboard</a></li>
+                                  <li><a href="/itemCRUD">Add Item</a></li>
                                   <li>
                                       <a href="{{ route('logout') }}"
                                           onclick="event.preventDefault();
